@@ -7,4 +7,4 @@ for l in letra:
     cont += 1 
 print(cont)
 print("FIM")
-prin
+print("teste")
