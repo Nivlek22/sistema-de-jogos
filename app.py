@@ -1,9 +1,10 @@
 
 print("Sistema de genciamento de Jogos")
-cont = 0 
-if True:
-    print("Lucas")
+letras = "lucas"
+cont = 0
+for l in letra:
+    print(l)
     cont += 1 
-    if cont == 10;
-        break
+print(cont)
 print("FIM")
+prin
