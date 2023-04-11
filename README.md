@@ -8,3 +8,8 @@ Para iniciar o projeto intale o python com o seguinte comando:
 ```
 apt-get install python3 -y
 ```
+
+Para iniciar o projeto intale o ping com o seguinte comando:
+```
+apt-get install ping
+```
